@@ -7,10 +7,7 @@
 
 ---
 
-[<!-- HERO BANNER -->
-<!-- Full-width screenshot of the Sus-10-able game homepage or title screen -->
-<!-- Suggested size: 1280×640px -->
-<!-- ![Sus-10-able Banner](./assets/banner.png) -->](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/blob/main/Images_susgame/Recording%202026-06-23%20121448.mp4)
+![GIF](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/small%20gif.gif)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sus--10--Able--Game-black?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project)
 [![Latest Release](https://img.shields.io/badge/⬇%20Download-Latest%20Build-blue?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/releases/latest)
