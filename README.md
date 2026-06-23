@@ -12,8 +12,8 @@
 <!-- Suggested size: 1280×640px -->
 <!-- ![Sus-10-able Banner](./assets/banner.png) -->
 
-[![Live Website](https://img.shields.io/badge/🌐%20Website-supdatta.github.io/sus--game-green?style=for-the-badge)](https://supdatta.github.io/sus-game)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-sus--game-black?style=for-the-badge&logo=github)](https://github.com/supdatta/sus-game)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Sus--10--Able--Game-black?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project)
+[![Latest Release](https://img.shields.io/badge/⬇%20Download-Latest%20Build-blue?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/releases/latest)
 [![Level 1 Gameplay](https://img.shields.io/badge/▶%20Level%201-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/2bvQfSeNm7Q)
 [![Level 2 Gameplay](https://img.shields.io/badge/▶%20Level%202-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/6qXBbRSTekk)
 
@@ -412,19 +412,22 @@ EcoScan turns in-game learning into real-life eco-actions — students scan ever
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/supdatta/sus-game.git
-cd sus-game
+git clone https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project.git
+cd Sus-10-Able-Game---SIH-Selected-Project
 ```
 
 ---
 
-### 2. Play the game (browser — no setup needed)
+### 2. Download & Run the Latest Build (Recommended)
 
-Visit: [https://supdatta.github.io/sus-game](https://supdatta.github.io/sus-game)
+The easiest way to get the full experience — including the platformer and all mini-games — is via the latest release build:
 
-Or download the GitHub Release to run mini-games locally:
+1. Go to the **[Releases page](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/releases/latest)**
+2. Under **Assets**, download the latest `.zip` build for your platform
+3. Extract the zip to any folder
+4. Open `index.html` (or the provided executable) in your browser
 
-> **Note:** Mini-games run on localhost. Download the latest Release from the GitHub repo for a full local experience.
+> **Note:** Mini-games run on localhost. The release build packages everything together so no additional setup is needed for gameplay.
 
 ---
 
@@ -487,7 +490,7 @@ Update your backend config to point to the Ngrok URL instead of the Gemini API e
 ## Project Structure
 
 ```
-sus-game/
+Sus-10-Able-Game---SIH-Selected-Project/
 │
 ├── frontend/                    # React + TypeScript + Tailwind
 │   ├── src/
@@ -552,6 +555,9 @@ sus-game/
 **Event:** Smart India Hackathon 2025
 **Problem Statement:** 25009 — Gamified Environmental Education Platform for Schools and Colleges
 
+| Member | Role |
+|---|---|
+| Shivansh Kandwal | Developer , AI&ML engineer , Data scientist |
 ---
 
 <p align="center">
