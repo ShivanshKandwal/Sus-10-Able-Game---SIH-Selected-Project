@@ -7,10 +7,10 @@
 
 ---
 
-<!-- HERO BANNER -->
+[<!-- HERO BANNER -->
 <!-- Full-width screenshot of the Sus-10-able game homepage or title screen -->
 <!-- Suggested size: 1280×640px -->
-<!-- ![Sus-10-able Banner](./assets/banner.png) -->
+<!-- ![Sus-10-able Banner](./assets/banner.png) -->](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/blob/main/Images_susgame/Recording%202026-06-23%20121448.mp4)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sus--10--Able--Game-black?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project)
 [![Latest Release](https://img.shields.io/badge/⬇%20Download-Latest%20Build-blue?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/releases/latest)
@@ -75,6 +75,7 @@ tackle sustainability challenges → unlock mini-games between levels
 → scan real-world objects with EcoScan → earn rewards, streaks,
 leaderboard spots → return to the game with new real-world knowledge
 ```
+![Solution](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/solution.png)
 
 <!-- OVERALL PLATFORM OVERVIEW SCREENSHOT / MIND MAP -->
 <!-- Screenshot of the proposed solution mind map from slide 2 -->
@@ -96,9 +97,10 @@ The heart of Sus-10-able — a **Godot-powered 2D pixel-art adventure** where th
 > The platformer is exported for the web via Godot's HTML5 export, making it instantly accessible from any browser — no installation required.
 
 <!-- PLATFORMER GAME SCREENSHOT -->
-<!-- In-game screenshot showing the player character interacting with appliances -->
-<!-- Caption: "Press E to interact and turn off all unnecessary appliances." -->
-<!-- ![Platformer Game](./assets/platformer-game.png) -->
+![Platformer](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/platformer.png)
+
+![Platformer 2](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/platformer%202.png)
+
 
 **Gameplay Videos:**
 - [Level 1 Walkthrough](https://youtu.be/2bvQfSeNm7Q)
@@ -117,9 +119,8 @@ Between platformer levels, players unlock **interactive mini-games** that reinfo
 | **Hangman** | Species names, eco-terms |
 | **Quizzes** | SDG facts, sustainability knowledge checks |
 
-<!-- MINI-GAMES SCREENSHOT GRID -->
-<!-- 2×2 grid screenshot showing Word Search, Crossword, Hangman, and Quiz UI -->
-<!-- ![Mini-Games](./assets/mini-games.png) -->
+![Mini Games](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/mini%20games.png)
+
 
 **Progress System:**
 - Rewards and badges for completing quests
@@ -137,9 +138,7 @@ EcoScan is the **bridge between virtual gameplay and real-world action**. Using 
 - **Eco-friendly alternatives**
 - **Action Tips** for responsible disposal or reduced usage
 
-<!-- ECOSCAN UI SCREENSHOT -->
-<!-- Screenshot of EcoScan scanning a "Pothos plant in a glass jar" with score 90 -->
-<!-- ![EcoScan Interface](./assets/ecoscan-ui.png) -->
+![EcoScan](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/ecoscan.png)
 
 **How EcoScan Works — 4-Step Pipeline:**
 
@@ -191,9 +190,9 @@ A structured, curriculum-aligned learning portal with three content types — al
 
 Each module tracks individual **progress** (completed vs. remaining), ensuring students can pick up where they left off.
 
-<!-- E-LEARNING HUB SCREENSHOT -->
-<!-- Screenshot of the module grid with progress bars and completion badges -->
-<!-- ![E-Learning Hub](./assets/elearning-hub.png) -->
+![E-Learning](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/e%20learning.png)
+
+![E-Learning 2](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/e%20learning%202.png)
 
 ---
 
