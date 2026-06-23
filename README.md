@@ -8,7 +8,6 @@
 ---
 
 ![GIF](https://raw.githubusercontent.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/main/Images_susgame/small%20gif.gif)
-
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Sus--10--Able--Game-black?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project)
 [![Latest Release](https://img.shields.io/badge/⬇%20Download-Latest%20Build-blue?style=for-the-badge&logo=github)](https://github.com/ShivanshKandwal/Sus-10-Able-Game---SIH-Selected-Project/releases/latest)
 [![Level 1 Gameplay](https://img.shields.io/badge/▶%20Level%201-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/2bvQfSeNm7Q)
