@@ -129,7 +129,7 @@ Between platformer levels, players unlock **interactive mini-games** that reinfo
 
 EcoScan is the **bridge between virtual gameplay and real-world action**. Using their device's camera, players scan everyday objects — plastic bottles, bags, appliances, food packaging — and receive an instant **sustainability report** with:
 
-- An **Eco-Rating score** (0–100)
+- An **Eco-Rating score** (0–100).
 - **Pros and Cons** of the material
 - **Eco-friendly alternatives**
 - **Action Tips** for responsible disposal or reduced usage
