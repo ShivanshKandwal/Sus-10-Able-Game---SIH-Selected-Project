@@ -36,6 +36,7 @@ Thumbs.db
 *.pck
 *.apk
 *.ipa
+!public/**/*.pck
 
 # Cache
 .cache/
