@@ -7,7 +7,7 @@ import autoprefixer from "autoprefixer";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Sus-10-Able-Game---SIH-Selected-Project/',
+  base: process.env.VERCEL ? '/' : '/Sus-10-Able-Game---SIH-Selected-Project/',
   plugins: [react(), svgr()],
   resolve: {
     alias: {
